@@ -15,4 +15,5 @@ to install W4 Engine Ping :
 <pre>
   gradlew war
 </pre>
+* Deploy the pingDef.bpmn file on your W4 BPMN+ Engine (using web administration console available at http://yourserver/w4BpmnplusAdmin or W4 BPMN+ Composer)
 * Go to build\libs and get w4engineping.war (change configuration in ping.jsp if necessary)
